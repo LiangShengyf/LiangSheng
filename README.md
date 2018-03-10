@@ -1,3 +1,1 @@
 # LiangSheng
-
-Hello world!
